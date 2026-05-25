@@ -1,0 +1,14 @@
+.git
+.gitignore
+
+__pycache__/
+*.pyc
+*.log
+.env
+venv/
+
+
+README.md
+LICENSE
+
+requirements-dev.txt
